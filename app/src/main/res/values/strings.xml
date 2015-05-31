@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EditYourText</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="size_array">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="fonts_array">
+        <item>sans</item>
+        <item>monospace</item>
+        <item>serif</item>
+    </string-array>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="title_activity_activity3">Activity3</string>
+
+
+</resources>
